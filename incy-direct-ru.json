@@ -44,7 +44,7 @@
   "ProxyIp": [],
   "BlockSites": [],
   "BlockIp": [],
-  "RouteOrder": "block-proxy-direct",
+  "RouteOrder": "block-direct-proxy",
   "DomainStrategy": "IPIfNonMatch"
 }
 
